@@ -88,9 +88,6 @@ seo:
     - name: 'og:type'
       value: website
       keyName: property
-    - name: 'og:title'
-      value: Stackbit Starter Them
-      keyName: property
     - name: 'twitter:card'
       value: summary_large_image
     - name: 'twitter:title'
