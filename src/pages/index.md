@@ -83,7 +83,7 @@ sections:
     background_color: gray
 seo:
   title: BTCex Digital Exchange
-  description: The preview of the Starter theme
+  description: Cryptocurrency Digital Exchange Platform
   extra:
     - name: 'og:type'
       value: website
