@@ -3,7 +3,7 @@ title: Home
 sections:
   - type: hero_section
     title: BTCex Digital Pay
-    subtitle: "Allying crypto and fiat\_for your business"
+    subtitle: "Allying crypto and fiat\_for your business.White-label gateway, allowing to exchangeover\_200 coins with multiple payment solutions"
     actions:
       - label: Learn More
         url: /features
