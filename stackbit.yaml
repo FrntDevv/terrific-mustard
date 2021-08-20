@@ -52,10 +52,6 @@ models:
         name: title
         label: Header Title
         description: The title displayed in the header if logo image not specified
-      - type: image
-        name: logo
-        label: Logo
-        description: The logo image displayed in the header
       - type: string
         name: logo_alt
         label: Logo Alt Text
