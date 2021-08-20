@@ -2,7 +2,7 @@
 title: Home
 sections:
   - type: hero_section
-    title: BTCex Instant Fiat to Crypto
+    title: BTCex Digital Pay
     subtitle: >-
       Lorem ipsum dolor sit amet, consectetur adipiscing elit. Nullam a metus
       quis lorem malesuada luctus.
