@@ -74,7 +74,7 @@ sections:
     has_background: true
     background_color: gray
 seo:
-  title: BTCex Digital Exchange
+  title: Exchange
   description: Cryptocurrency Digital Exchange Platform
   extra:
     - name: 'og:type'
